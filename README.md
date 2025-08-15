@@ -47,18 +47,18 @@ This project explores what makes NBA teams successful in the **playoffs** by ana
 
 ## How to Run
 
-# 1. Clone the repo
+1. Clone the repo
 git clone https://github.com/yourusername/nba-playoff-modeling.git
 cd nba-playoff-modeling
 
-# 2. Set up a virtual environment (optional)
+2. Set up a virtual environment (optional)
 python3 -m venv venv
 source venv/bin/activate
 
-# 3. Install dependencies
+3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Run the notebook
+4. Run the notebook
 jupyter notebook NBAProject_Final.ipynd
 
 ---
