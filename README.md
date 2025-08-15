@@ -71,6 +71,9 @@ pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels
 
 ## Author
 Beckett Newton
+<br/>
 bmn4602@nyu.edu
+<br/>
 linkedin.com/in/beckett-newton/
+<br/>
 datascienceportfol.io/beckettnewton
